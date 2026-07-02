@@ -254,7 +254,7 @@
     src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white"
     alt="Markdown"
   />
-  </p>
+</p>
 
 <p align="center">
   <img
