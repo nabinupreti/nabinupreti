@@ -145,7 +145,6 @@
     src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;logo=django&amp;logoColor=white"
     alt="Django"
   />
-  
   <img
     src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"
     alt="Django Rest Framework"
@@ -154,8 +153,8 @@
   <!-- <img
     src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"
     alt="Jinga"
-  />
-</p> --> 
+  />--> 
+</p> 
 
  <!--database section-->
 <p align="center">
@@ -256,7 +255,7 @@
     src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white"
     alt="Markdown"
   />
-</p>
+  </p>
 
 <p align="center">
   <img
@@ -267,11 +266,10 @@
     src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"
     alt="Shell"
   />
-
-  <img
+  <!-- <img
     src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"
     alt="neovim"
-  />
+  /> -->
 </p> 
 
 <!-- tools section -->
