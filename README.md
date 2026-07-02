@@ -31,11 +31,11 @@
 <!-- About me section -->
 ## A passionate Software Developer and IT Undergraduate.
 
-- 🌱 I’m currently learning **Software development and digital marketing**
+- 🌱 I’m currently learning **DevOps and Cloud Services**
 
-- 👯 I’m looking to collaborate on **Web development**
+- 👯 I’m looking to collaborate on **DevOps**
 
-<!-- - 💬 Ask me about **Java, HTML, CSS, Javascript** -->
+<!-- - 💬 Ask me about **Python, Docker, CI/CD** -->
 
 - 📫 How to reach me **contact@nabinupreti.com.np**
 <br/>
@@ -238,7 +238,7 @@
 </p> -->
 
 <!-- extra section -->
-  <!--
+  
 <p align="center">
   <img
     src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
@@ -258,10 +258,9 @@
     alt="Markdown"
   />
 </p>
--->
 
 <!-- section -->
-<!-- <p align="center">
+<p align="center">
   <img
     src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
     alt="Linux"
@@ -275,7 +274,7 @@
     src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"
     alt="neovim"
   />
-</p> -->
+</p> 
 
 <!-- tools section -->
 
