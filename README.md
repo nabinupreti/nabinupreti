@@ -136,7 +136,6 @@
       /> 
 </p> -->
 
-<!-- python backend section
 <p align="center">
   <img
     src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
@@ -164,7 +163,7 @@
     src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
     alt="MySQL"
   />
-  <!-- <img
+  <img
     src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
     alt="PostgreSQL"
   />
@@ -175,7 +174,7 @@
   <img
     src="https://img.shields.io/badge/Microsoft%20SQL%20Server-yellow?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"
     alt="SQL-SERVER"
-  />-->
+  />
 </p> 
 
 <!-- AI/ML tools -->
@@ -259,7 +258,6 @@
   />
 </p>
 
-<!-- section -->
 <p align="center">
   <img
     src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
@@ -299,7 +297,6 @@
 
 
 <!-- hosting/SaaS  -->
-<!--
 <p align="center">
   <img
     src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
@@ -309,7 +306,6 @@
     src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
     alt="Vercel"
   />
-  -->
   <!-- <img
         src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
         alt="FireBase"
@@ -321,12 +317,12 @@
       <img
         src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"
         alt="Google Cloud"
-      />
+      /> -->
       <img
         src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
         alt="Amazon AWS"
       /> 
-</p> -->
+</p> 
 <!-- end of lang and tools -->
 <br>
 
